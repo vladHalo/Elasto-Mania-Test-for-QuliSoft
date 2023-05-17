@@ -2884,7 +2884,7 @@ MonoBehaviour:
   _startPosition: {x: 7, y: 5}
   _leftCircle: {fileID: 1789215104}
   _rightCircle: {fileID: 1789215103}
-  _speed: 1200
+  _speed: 900
   movement: 0
 --- !u!235 &1789215103
 WheelJoint2D:
